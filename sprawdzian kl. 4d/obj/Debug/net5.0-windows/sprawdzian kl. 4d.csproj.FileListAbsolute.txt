@@ -1,0 +1,22 @@
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\sprawdzian kl. 4d.exe
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\sprawdzian kl. 4d.deps.json
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\sprawdzian kl. 4d.runtimeconfig.json
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\sprawdzian kl. 4d.runtimeconfig.dev.json
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\sprawdzian kl. 4d.dll
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\ref\sprawdzian kl. 4d.dll
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\bin\Debug\net5.0-windows\sprawdzian kl. 4d.pdb
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d_MarkupCompile.cache
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d_MarkupCompile.lref
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.g.resources
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.AssemblyInfoInputs.cache
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.AssemblyInfo.cs
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.dll
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\ref\sprawdzian kl. 4d.dll
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.pdb
+C:\Users\Uczen\source\repos\sprawdzian kl. 4d\obj\Debug\net5.0-windows\sprawdzian kl. 4d.genruntimeconfig.cache

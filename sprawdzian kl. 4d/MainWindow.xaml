@@ -1,0 +1,21 @@
+﻿<Window x:Class="sprawdzian_kl._4d.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sprawdzian_kl._4d"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="Wpisz imie"/>
+        <TextBox/>
+        <TextBlock Text="Witaj (imie) w tym programie"/>
+        <TextBlock Text="Podaj liczby do mnożenia"/>
+        <TextBlock Text="a"/>
+        <TextBox/>
+        <TextBlock Text="b"/>
+        <TextBox/>
+        <Button Content="POMNÓŻ"/>
+        <TextBlock Text="Wynik mnożenia"/>
+    </StackPanel>
+</Window>

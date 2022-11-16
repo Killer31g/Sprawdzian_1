@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sprawdzian kl. 4d/1.0.0": {
+        "runtime": {
+          "sprawdzian kl. 4d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sprawdzian kl. 4d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
